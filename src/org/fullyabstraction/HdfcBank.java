@@ -14,6 +14,9 @@ System.out.println("savings : 8%");
 	public void loan() {
 System.out.println("loan : 6%");		
 	}
+private void fd() {
+System.out.println("fd rate 70%");
+}
 private void fixed() {
 System.out.println("fixed : 4%");
 }
